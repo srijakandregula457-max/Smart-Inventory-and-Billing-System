@@ -1,0 +1,1 @@
+2026-11-09 | ID: p104 | Product: apples | Quantity: 1 | Reason: damaged | Potential Loss: Rs. 100.00
