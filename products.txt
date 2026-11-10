@@ -1,9 +1,9 @@
 p101,curd,grocery,30.0,45,2026-11-12
 p102,sugar,grocery,70.0,1,2027-11-09
-p103,chocolates,food,50.0,45,2027-11-09
+p103,chocolates,food,50.0,41,2027-11-09
 p104,apples,fruits,100.0,29,2026-11-17
 p105,soap bars,skincare,120.0,43,2028-11-01
 p106,facemask,skincare,200.0,50,2027-11-10
 p107,tomato,vegetables,30.0,50,2026-11-14
-p108,nutella,food,300.0,20,2027-11-29
+p108,nutella,food,300.0,19,2027-11-29
 p109,ibacco ice cream,food,400.0,9,2026-12-30

@@ -66,7 +66,24 @@ The Smart Inventory and Billing Management System helps manage products, maintai
 
 ## Screenshots
 
-Screenshots of the application dashboard, inventory page, and billing page will be added here.
+
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Inventory Management
+![Inventory Management](screenshots/inventory.png)
+
+### Billing Management
+![Billing](screenshots/billing.png)
+
+### Analytics
+![Analytics](screenshots/Analytics.png)
+
+### Stock Management
+![Stock Management](screenshots/stockmanagement.png)
+
 
 ## Developer
 
