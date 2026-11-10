@@ -5,3 +5,4 @@
 09-11-2026 17:36:06 | curd | Quantity: 5 | Amount: Rs. 150.00
 09-11-2026 17:36:06 | soap bars | Quantity: 3 | Amount: Rs. 360.00
 09-11-2026 19:25:05 | chocolates | Quantity: 5 | Amount: Rs. 250.00
+10-11-2026 18:24:21 | ibacco ice cream | Quantity: 1 | Amount: Rs. 400.00
