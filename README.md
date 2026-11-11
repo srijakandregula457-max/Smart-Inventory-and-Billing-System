@@ -87,7 +87,11 @@ The Smart Inventory and Billing Management System helps manage products, maintai
 
 ## Developer
 
-**GitHub:** [varnithakancherla09](https://github.com/varnithakancherla09) srijakandregula457-max
+**GitHub:** [varnithakancherla09](https://github.com/varnithakancherla09) 
+**GitHub:** [srijakandregula457-max](https://github.com/srijakandregula457-max) 
+**GitHub:** [pratyushanjalik-ctrl](https://github.com/pratyushanjalik-ctrl) 
+
+
 
 ## License
 
